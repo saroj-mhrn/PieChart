@@ -5,4 +5,4 @@ sourceimages
 .csscomb.json
 Gruntfile.js
 package.json
-grunt-setting.js
+grunt-settings.js
